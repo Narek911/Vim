@@ -1,4 +1,5 @@
 syntax on
+set enc=utf-8
 set mouse=r
 set smartindent
 set tabstop=4
