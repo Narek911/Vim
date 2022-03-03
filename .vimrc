@@ -1,7 +1,7 @@
 syntax on
 set enc=utf-8
 set mouse=r
-set smartindent
+filetype plugin indent on
 set tabstop=4
 set shiftwidth=4
 set expandtab
